@@ -1,0 +1,24 @@
+[
+    {
+        "title": "childless",
+        "children": []
+    },
+    {
+        "title": "great grandparent",
+        "children": [
+            {
+                "title": "childless grandsibiling",
+                "children": []
+            },
+            {
+                "title": "grandparent",
+                "children": [
+                    {
+                        "title": "childless sibiling",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
